@@ -1,2 +1,10 @@
 # actividad---CRAII---UNIMINUTO
-actividad - CRAII - UNIMINUTO - DFD    Luisa Fernanda Quintero Martínez - 1114686   Laura Natalia Rojas Bautista - 1113207  Sharith Vanessa Sanchez Rubio 1139057     estructuras de decision en diagramas de flujo y condiciones simples,compuestas,multiples y anidadas
+
+# integrantes   
+Luisa Fernanda Quintero Martínez - 1114686
+
+Laura Natalia Rojas Bautista - 1113207
+
+Sharith Vanessa Sanchez Rubio 1139057
+# tema
+estructuras de decision en diagramas de flujo y condiciones simples, compuestas, multiples y anidadas
