@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+Nombre
+5
+1
+6
+Estado
+7
+1
+1
+12
+Estado = "S"
+7
+1
+1
+12
+Estado = "C"
+7
+1
+1
+12
+Estado = "V"
+7
+1
+1
+12
+Estado = "U"
+7
+1
+1
+12
+Estado = "O"
+6
+1
+3
+res
+11
+"No valido"
+13
+6
+1
+3
+res
+6
+"Otro"
+13
+13
+6
+1
+3
+res
+13
+"Union Libre"
+13
+13
+6
+1
+3
+res
+7
+"Viudo"
+13
+13
+6
+1
+3
+res
+8
+"Casado"
+13
+13
+6
+1
+3
+res
+9
+"Soltero"
+13
+4
+1
+30
+Nombre, " su estado es: ", Res
+1
